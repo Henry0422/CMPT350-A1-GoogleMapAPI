@@ -1,7 +1,5 @@
 CMPT350 Assignment1
 Name:Rongli Han
-NSID: roh919
-Student NO.11146640
 
 I use Chrome and Safari browser to test it. Sometimes the browser need a few seconds to load the map. 
 
