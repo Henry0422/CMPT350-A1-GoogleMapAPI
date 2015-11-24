@@ -1,5 +1,9 @@
 Google Map JavaScript API V3
 
+
+http://henry0422.github.io/CMPT350-A1-GoogleMapAPI
+
+
 This is an assignment for CMPT350 Web Programming
 
 Task 1: For Saskatoon local walking/cycling route, from you current saskatoon location to University of Sasketchewan
